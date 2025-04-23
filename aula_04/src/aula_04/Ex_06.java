@@ -40,7 +40,7 @@ public class Ex_06 {
             System.out.println("\nNenhum número múltiplo de 3 foi digitado.");
         }
         
-        	System.out.println("\nNúmeros múltiplos de 3 digitados: " + multiplos);	
+        	System.out.println("\nNúmeros múltiplos de 3 digitados: " + multiplos);	// exibe os multiplos
 
         leia.close();
     }

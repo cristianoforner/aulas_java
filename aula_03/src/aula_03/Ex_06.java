@@ -63,10 +63,10 @@ public class Ex_06 {
 				return;
 		}
 
-		// Cálculo do novo salário
+		// calculo
 		float novoSalario = salario + (salario * percentual);
 
-		// Saída formatada
+		// final
 		System.out.println("\n--- DADOS DO COLABORADOR ---");
 		System.out.println("Nome do colaborador: " + nome);
 		System.out.println("Cargo: " + cargo);
